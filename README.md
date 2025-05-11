@@ -7,7 +7,7 @@ A pixel-perfect, animated Flutter mini-app that simulates expense tracking. Buil
 
 ---
 
-## 🚀 Setup Instructions
+## Setup Instructions
 
 1. **Clone the project**
    ```bash
