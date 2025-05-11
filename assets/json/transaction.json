@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Netflix Premium",
+    "subtitle": "Today 08:24 pm",
+    "amount": 17.99,
+    "category": "Subscription",
+    "status": "Completed",
+    "date": "2025-05-10T20:24:00"
+  },
+  {
+    "id": "2",
+    "title": "Netflix Premium",
+    "subtitle": "Yesterday 10:54 am",
+    "amount": 32.45,
+    "category": "Music",
+    "status": "Completed",
+    "date": "2025-05-09T10:54:00"
+  },
+  {
+    "id": "3",
+    "title": "Netflix Premium",
+    "subtitle": "Tomorrow 05:04 pm",
+    "amount": 23.56,
+    "category": "Fitness",
+    "status": "Completed",
+    "date": "2025-05-11T17:04:00"
+  }
+]
