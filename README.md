@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# kobi
-=======
+
 # kobi
 
 A new Flutter project.
@@ -92,6 +90,3 @@ Tab Filtering:
 Dropdown menu replaces toggle
 
 Tabs: All, April, May — triggers Cubit filter update
-
-
->>>>>>> 9a82753 (kobi)
