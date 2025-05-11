@@ -3,7 +3,6 @@
 A new Flutter project.
 
 ## Getting Started
-
 A pixel-perfect, animated Flutter mini-app that simulates expense tracking. Built from scratch with scalable architecture, smooth UI transitions, and API-simulated data using a local JSON file. Responsive across mobile and tablet screens, with platform-aware UX for both Android and iOS.
 
 ---
